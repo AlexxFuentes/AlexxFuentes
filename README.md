@@ -4,9 +4,12 @@
 
 ## cosole.log('Hello world!!⚡')
 
+
+### 🌱 Aprendiendo constantemente
 ```javascript
 const me = {
-  code: [JavaScript, Typescript, HTML, CSS, Angular],
+  code_frontend: [JavaScript, Typescript, HTML, CSS, Angular],
+  code_backend: [Nodejs, Nestjs]
 }
 ```
 

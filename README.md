@@ -9,7 +9,7 @@
 ```javascript
 const me = {
   code_frontend: [JavaScript, Typescript, HTML, CSS, Angular],
-  code_backend: [Nodejs, Nestjs]
+  code_backend: [Nodejs, Nestjs, SQL, MongoDB]
 }
 ```
 

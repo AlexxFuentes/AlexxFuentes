@@ -2,6 +2,11 @@
 
 ## cosole.log('Hello world!!⚡')
 
+const me = {
+  code: [JavaScript, Typescript, HTML, CSS, Angular],
+  challenge: ""
+}
+
 <!--
 **AlexxFuentes/AlexxFuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,6 +1,6 @@
 ### Hola, Soy Alex Fuentes👋
 
-## Estudiente de Ingenieria en Sistemas
+## Estudiente de Ingeniería en Sistemas
 
 ## cosole.log('Hello world!!⚡')
 

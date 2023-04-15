@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##cosole.log('Hello world!!⚡')
+## cosole.log('Hello world!!⚡')
 
 <!--
 **AlexxFuentes/AlexxFuentes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
 
 ## Estudiente de Ingeniería en Sistemas
 
-## cosole.log('Hello world!!⚡')
+## console.log('Hello world!!⚡')
 
 
 ### 🌱 Aprendiendo constantemente

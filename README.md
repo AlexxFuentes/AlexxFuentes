@@ -8,8 +8,8 @@
 ### 🌱 Aprendiendo constantemente
 ```javascript
 const me = {
-  code_frontend: [JavaScript, Typescript, HTML, CSS, Angular, ReactJs],
-  code_backend: [Nodejs, Nestjs, SQL, MongoDB]
+  frontend: [JavaScript, Typescript, HTML, CSS, ReactJs],
+  backend: [Nodejs, Nestjs, SQL, MongoDB],
 }
 ```
 

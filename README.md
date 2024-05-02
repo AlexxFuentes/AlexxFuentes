@@ -1,6 +1,6 @@
 ### Hola, Soy Alex Fuentes👋
 
-## Estudiante de Ingeniería en Sistemas
+## Ingeniero en Sistemas
 
 ## console.log('Hello world!!⚡')
 
